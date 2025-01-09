@@ -8,6 +8,8 @@
             Console.WriteLine("test from rphl");
             Console.WriteLine("test from ym");
             Console.WriteLine("hello");
+            Console.WriteLine("test from rphl");
+            Console.WriteLine("test from ym");
         }
     }
 
